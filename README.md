@@ -1,5 +1,5 @@
 
-Ayyy, i'm **bitdancerfr**
+Ayyy, i'm **hyperionunloaded**
 
 C++ developer · 2 years · still going
 
@@ -7,7 +7,7 @@ C++ developer · 2 years · still going
 
 ## about me
 
-- building High-level stuff — C++, ImGui UI, Proton Executor, Emulators, XAML
+- building High-level stuff - C++, ImGui UI, Proton Executor, Emulators, XAML
 - into game reversing and understanding how things work
 
 ---
